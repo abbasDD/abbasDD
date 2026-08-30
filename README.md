@@ -3,7 +3,7 @@
 Full-stack engineer, six years in production with no gaps — multi-sided marketplaces, delivery and
 field operations, commerce platforms and configurators, and now multi-tenant SaaS with production
 LLM systems on top. Laravel/PHP · Python/FastAPI · Next.js/TypeScript.
-Shipped for clients in seven countries; led the Laravel team 2023–2025.
+Shipped for clients in seven countries; led a 6-developer Laravel team 2023–2025.
 
 **Portfolio → [abbasdd.github.io](https://abbasdd.github.io)** — every project names the layer I
 actually built, because most of the work below lives in private client and product repos.
@@ -23,7 +23,7 @@ customer-sent product photos — across ~7 tenants and 5 messaging channels. Bes
 1M+ customers: identity resolution, segmentation, loyalty tiers, and WhatsApp/SMS campaigns with
 delivery-receipt reconciliation. Laravel 12 + Python/FastAPI + Next.js.
 
-### Before — Elabd Technologies · 2020–2025 · Team Lead from 2023
+### Before — Elabd Technologies · 2020–2025 · Team Lead (6 developers) from 2023
 
 Multi-sided marketplaces and field-operations platforms for clients in Oman, Qatar, UAE, Ghana,
 Canada and New Zealand. Booking and dispatch, wallets and payments, realtime tracking, bilingual
