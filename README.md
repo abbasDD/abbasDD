@@ -8,12 +8,6 @@ Shipped for clients in seven countries; led a 6-developer Laravel team 2023–20
 **Portfolio → [abbasdd.github.io](https://abbasdd.github.io)** — every project names the layer I
 actually built, because most of the work below lives in private client and product repos.
 
-| | |
-|---:|:---|
-| **2,330,105** | orders in systems I built |
-| **1,026,113** | customers under CRM management |
-| **~7** | live brand tenants in production |
-| **7** | countries shipped client platforms to |
 
 ### Now — Kame House Solutions · Dubai product studio · remote
 
